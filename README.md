@@ -1,6 +1,8 @@
 # Arweave.Identicons
 Create your own identicon and upload it to Arweave. Use it across other permaweb apps as a way to identify yourself, better used along ArweaveID.
 
+Deployed here: https://arweave.net/EeFup1JeEIIPnTxPlrOj6ddOEy0LliGYownqvX6Z7JE
+
 Similarly to ArweaveID, you can get all your identicons by running an ArQL query:
 
 ```
